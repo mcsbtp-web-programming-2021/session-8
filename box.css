@@ -1,0 +1,9 @@
+main {
+    max-width: 600px;
+    margin: auto;
+}
+
+#the-box {
+    font-size: 45px;
+    background-color: #EEE;
+}
